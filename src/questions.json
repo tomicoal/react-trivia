@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "What is the 2D shape of Earth?",
+      "choices": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctAnswerIdx": 0
+    },
+    {
+      "question": "What is the 2D shape of banana?",
+      "choices": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correctAnswerIdx": 3
+    }
+  ]
+}
